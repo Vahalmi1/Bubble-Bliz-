@@ -1,6 +1,6 @@
 {
   "name": "Bubble Blitz",
-  "description": "Bubble Blitz by Bitogin Tech — a colorful, mobile-first HTML5 puzzle bubble shooter with 100 levels, 5 boosters, daily rewards, lucky spin, achievements, and offline local progress.",
+  "description": "Bubble Blitz by Bitogin Tech — a colorful, native Android Jetpack Compose bubble shooter with 100 levels, 5 boosters, daily rewards, lucky spin, achievements, Start.io rewarded ads, and offline Room persistence.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
